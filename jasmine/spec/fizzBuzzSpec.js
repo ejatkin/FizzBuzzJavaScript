@@ -54,6 +54,46 @@ describe('FizzBuzz', function() {
 
   });
 
+  describe('when playing, says', function(){
+    
+    it('"Fizzbuzz" when a number is divisible by 15', function(){
+      expect(fizzbuzz.says(15)).toEqual("Fizzbuzz");
+    });
+
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
